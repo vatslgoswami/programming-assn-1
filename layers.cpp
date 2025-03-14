@@ -6,7 +6,7 @@
 #include <cmath>
 using namespace std;
 
-double T = 0;
+double T = 0; //T counts the total number of operations in our function.
 
 struct Point {
     int x, y;
